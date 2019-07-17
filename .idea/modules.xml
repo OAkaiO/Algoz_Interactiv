@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Algoz_Interactiv.iml" filepath="$PROJECT_DIR$/.idea/Algoz_Interactiv.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/startbootstrap-agency-gh-pages.iml" filepath="$PROJECT_DIR$/.idea/startbootstrap-agency-gh-pages.iml" />
     </modules>
   </component>
